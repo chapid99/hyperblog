@@ -1,6 +1,6 @@
 Esta es una prueba de git en el curso
 
-Curso profesional de git u git hub
+Curso profesional de git u git hub y estoy en el cap 8
 
 Pruebas
 
